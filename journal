@@ -1,0 +1,15 @@
+ToDo:
+----
+server: 
+* scan for wav files // if mp3 files found ask for conversion?
+* web interface with nginx?
+* auto-repro
+* bench for data consumption - wav files are uf
+* db with songs?
+* auth?
+
+Client:
+* menu
+-- avaiable songs
+-- search song
+-- stop/start/skip songs - flag based?
